@@ -6,8 +6,8 @@ Got hold of an old iZettle payment terminal that I thought would look nice as a 
 - Fun project to spend some hours on 👀
 
 # IMG
-![Front of terminal](assets\front.jpg "Front")
-![Back of terminal exposed](assets\back_exposed.jpg "Back, exposed")
+![Front of terminal](assets/front.jpg "Front")
+![Back of terminal exposed](assets/back_exposed.jpg "Back, exposed")
 
 
 # Hardware:
@@ -26,7 +26,7 @@ Got hold of an old iZettle payment terminal that I thought would look nice as a 
 - FastLED by Daniel Garcia 3.10.9
 
 # Software:
-- [betalterminalLEDS.ino](betalterminalLEDS\betalterminalLEDS.ino)
+- [betalterminalLEDS.ino](\betalterminalLEDS\betalterminalLEDS.ino)
 - FreeCAD
 
 # Improvements if i were to do it again:
