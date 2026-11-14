@@ -26,7 +26,7 @@ Got hold of an old iZettle payment terminal that I thought would look nice as a 
 - FastLED by Daniel Garcia 3.10.9
 
 # Software:
-- [betalterminalLEDS.ino](\betalterminalLEDS\betalterminalLEDS.ino)
+- [betalterminalLEDS.ino](betalterminalLEDS/betalterminalLEDS.ino)
 - FreeCAD
 
 # Improvements if i were to do it again:
